@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @MerryWind
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 子羽 - AI实战专家 🌟
 
-<!---
-MerryWind/MerryWind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 欢迎来到我的 GitHub 主页！
+
+我是子羽，致力于将 AI 技术转化为实际应用的实干家。🚀
+我热衷于通过实际项目展示 AI 的潜力，并帮助企业和个人实现技术变现。🌐
+
+- 🌟 **Fall IN AIGC** | 3年自媒体人 📢 | 全栈程序员 💻
+- 💼 正在拆解 101 个 AI 项目 🔧
+- 🎓 帮助超过 10,000 人学习和使用 AI 🎓
+- 📫 联系方式: **微信** - QJ_2024 📩
